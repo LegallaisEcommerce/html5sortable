@@ -1,0 +1,8 @@
+{
+  "name": "html5sortable",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:LegallaisEcommerce/html5sortable.git",
+  "author": "Valentin LÉVÊQUE <contact@valentinleveque.me>",
+  "license": "MIT"
+}
